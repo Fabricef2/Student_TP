@@ -1,4 +1,4 @@
-#Importation des modules pour inmportation et connection à mysql
+#Importation des modules et pour la connection à mysql
 import pandas as pd
 import mysql.connector
 from mysql.connector import Error
